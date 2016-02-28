@@ -1,1 +1,3 @@
 This main idea behind this project is to collect code examples for the 1Z0-809 exam, but it can be used to learn about Java in general. The content of the project should follow the exam topics described in the following link: http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-809#tabs-2
+
+This is also a private project for me to learn more about git and github.
