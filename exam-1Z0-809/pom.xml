@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>study.examples.ocp</groupId>
+	<artifactId>exam-1Z0-809</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	<modules>
+		<module>t01-JavaClassDesign</module>
+		<module>t02-AdvancedJavaClassDesign</module>
+		<module>t03-GenericsAndCollections</module>
+		<module>t04_LambdaBuiltInFunctionalInterfaces</module>
+		<module>t05_JavaStreamAPI</module>
+		<module>t06_ExceptionsAndAssertions</module>
+		<module>t07_UseJavaSE8DateTimeAPI</module>
+		<module>t08_JavaIOFundamentals</module>
+		<module>t09_JavaFileIO</module>
+		<module>t10_JavaConcurrency</module>
+		<module>t11_DatabaseApplicationWithJDBC</module>
+		<module>t12_Localization</module>
+	</modules>
+</project>
